@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'activerecord'
+gem 'pg'
+gem 'rake'
+gem 'sinatra'
+gem 'sinatra-activerecord'
+gem 'byebug'
+gem 'dotenv'
+gem 'shotgun'
+gem 'haml'
+gem 'sass'
+gem 'httparty'
